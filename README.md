@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akansha kumari worked as a software engineer in kuoni tumlare.
+### Hi there 👋 I'm Akansha kumari. I worked as a software engineer at kuoni tumlare.
 **🌱 I’m currently exploring about kafka and microservices along with solving questions on diff-2 platforms.
 <!--
 **akanshakumari1x/akanshakumari1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
