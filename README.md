@@ -5,13 +5,21 @@
 ### 🚀 About Me
 
 💻 Experienced in **Java, Spring Boot, Spring MVC, Hibernate, REST APIs, and Microservices**.
+
 🌱 Currently exploring **Apache Kafka, Microservices Architecture, and High-Level Design (HLD)**.
+
 🧠 Actively practicing Data Structures and Algorithms by solving coding problems on different platforms.
+
 ☕ Passionate about backend development, writing clean and maintainable code, and building scalable applications.
+
 🤖 Interested in exploring **Spring AI and Generative AI**.
+
 🤝 Looking forward to collaborating on open-source projects, especially those involving **Java, Spring Boot, and Spring AI**.
+
 📚 Always eager to learn new technologies and improve my software development skills.
+
 🎯 My goal is to design and develop reliable, scalable, and efficient backend systems.
+
 
 ### 🛠️ Tech Stack
 
